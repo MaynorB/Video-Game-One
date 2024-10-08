@@ -1,0 +1,46 @@
+[+] Containers:
+ |- [+] Container: /Game/FirstPerson/Maps/FirstPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:6ED674C14D29365AC28DBF9F657FE353 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_9C6B0059DB81ED0902_1776605713 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-40.000 Y=-40.000 Z=58.000), Max=(X=40.000 Y=40.000 Z=242.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Misc FolderGuid:46F98A94403D4F1D890573B2FD4B2311
+ |   |   |- Guid:6FEFB3BD4EB37B849EF0D4AC80F83855 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Misc FolderGuid:46F98A94403D4F1D890573B2FD4B2311
+ |   |   |- Guid:A9145CFC4EDEACFA10B4DAA83CB591B7 BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_9C6B0059DB81ED0902_1703096711 Label:SpotLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-566.229 Y=-566.229 Z=-762.458), Max=(X=566.229 Y=566.229 Z=370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SpotLights FolderGuid:4FEA2D974C976C77EBC3DD95519A09EF
+ |   |   |- Guid:BED1C9DD48E291D83836B1AF6D6176EF BaseClass:/Game/FirstPerson/Blueprints/TeleportZone.TeleportZone_C NativeClass:/Script/Engine.Actor Name:TeleportZone_C_UAID_9C6B0059DB81870B02_2112258881 Label:TeleportZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-499.653 Y=-499.653 Z=-137.414), Max=(X=499.653 Y=499.653 Z=-73.414) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Zones FolderGuid:3C7286BC4043CC7AAC52B8958D3053E2
+ |   |   |- Guid:E45064D1472BF3ADEC68EC9C3E3B8C4F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_9C6B0059DB81890B02_2051614237 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-200.000 Y=-162.500 Z=-50.000), Max=(X=200.000 Y=162.500 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cubes FolderGuid:1FABD2E442BE96E3869E3EB2E1DD3987
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:6ED674C14D29365AC28DBF9F657FE353 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_9C6B0059DB81ED0902_1776605713 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-40.000 Y=-40.000 Z=58.000), Max=(X=40.000 Y=40.000 Z=242.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Misc FolderGuid:46F98A94403D4F1D890573B2FD4B2311
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:6FEFB3BD4EB37B849EF0D4AC80F83855 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Misc FolderGuid:46F98A94403D4F1D890573B2FD4B2311
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:A9145CFC4EDEACFA10B4DAA83CB591B7 BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_9C6B0059DB81ED0902_1703096711 Label:SpotLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-566.229 Y=-566.229 Z=-762.458), Max=(X=566.229 Y=566.229 Z=370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SpotLights FolderGuid:4FEA2D974C976C77EBC3DD95519A09EF
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:BED1C9DD48E291D83836B1AF6D6176EF BaseClass:/Game/FirstPerson/Blueprints/TeleportZone.TeleportZone_C NativeClass:/Script/Engine.Actor Name:TeleportZone_C_UAID_9C6B0059DB81870B02_2112258881 Label:TeleportZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-499.653 Y=-499.653 Z=-137.414), Max=(X=499.653 Y=499.653 Z=-73.414) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Zones FolderGuid:3C7286BC4043CC7AAC52B8958D3053E2
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:E45064D1472BF3ADEC68EC9C3E3B8C4F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_9C6B0059DB81890B02_2051614237 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-200.000 Y=-162.500 Z=-50.000), Max=(X=200.000 Y=162.500 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cubes FolderGuid:1FABD2E442BE96E3869E3EB2E1DD3987
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FirstPerson/Maps/FirstPersonMap
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FirstPersonMap Persistent Level
+ |- Always loaded Actor Count: 5 
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_UAID_9C6B0059DB81ED0902_1776605713
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/93/X22Q8G1XY5GQXFW10MMPB5
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SpotLight_UAID_9C6B0059DB81ED0902_1703096711
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/MU/7AZT2V1Z35PTUCHH94XSM5
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0059DB81890B02_2051614237
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/U6/LVKSFC3IO37HKN35KBTQEZ
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TeleportZone_C_UAID_9C6B0059DB81870B02_2112258881
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/VF/CESJ3RS15ZKW4GZLK176L0
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO
+
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
